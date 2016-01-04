@@ -1,0 +1,6 @@
+!AFINN-111.txt
+*.pyc
+*.txt
+*.html
+/data
+/env
